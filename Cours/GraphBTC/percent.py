@@ -1,4 +1,7 @@
-f = input("Entrez les deux et mettez ; pour separer")
+# !!!!!!! don't work !!!!!!!
+
+
+f = input("Entrez les deux et mettez ; pour separer:\n")
 
 g = f.split(';')
 
