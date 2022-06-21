@@ -79,3 +79,13 @@
 {'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 27, 'second': 59, 'btceurprice': '20321.09000000'}
 {'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 28, 'second': 12, 'btceurprice': '20333.43000000'}
 {'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 28, 'second': 15, 'btceurprice': '20339.82000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 28, 'second': 56, 'btceurprice': '20334.49000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 29, 'second': 42, 'btceurprice': '20327.91000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 29, 'second': 46, 'btceurprice': '20333.82000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 30, 'second': 3, 'btceurprice': '20345.37000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 30, 'second': 7, 'btceurprice': '20361.59000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 30, 'second': 15, 'btceurprice': '20356.52000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 30, 'second': 23, 'btceurprice': '20364.96000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 30, 'second': 54, 'btceurprice': '20371.38000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 31, 'second': 9, 'btceurprice': '20361.42000000'}
+{'year': 2022, 'month': 6, 'day': 21, 'hour': 19, 'minute': 31, 'second': 20, 'btceurprice': '20351.62000000'}
